@@ -23,7 +23,6 @@ public class multithree {
 		System.out.println("Total sum of 3: " + totalthree);
 		System.out.println("Total sum of 5: " + totalfive);
 		System.out.println("Total sum of 3 and 5: " + totalsum);
-		
-		
+		//This isn't working at the moment. Need to combine the sums total.
 	}
 }
